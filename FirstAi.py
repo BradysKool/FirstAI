@@ -2,12 +2,6 @@ import math, copy
 import numpy as np
 import matplotlib.pyplot as plt
 
-# x_train = np.array([1976,1409,1853,4283,2286,1783,1250,1990])
-# y_train = np.array([1350,865,950,1695,1525,800,747,1300])
-
-# x_train = (x_train - np.mean(x_train)) / np.std(x_train)
-
-
 x_train = np.array([1.0, 2.0])   #features
 y_train = np.array([300.0, 500.0])  
 
